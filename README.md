@@ -8,7 +8,7 @@ Python locally:
 
 ## IExec local test run:
 
-docker build . --tag kx-ruptures
+`docker build . --tag kx-ruptures`
 
 `mkdir /tmp/iexec_in`
 `mkdir /tmp/iexec_out`
